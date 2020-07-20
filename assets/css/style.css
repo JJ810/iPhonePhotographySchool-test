@@ -3,6 +3,13 @@ body {
   margin: 0;
 }
 
+@font-face {
+  font-family: "Lato";
+  src: url("../fonts/Lato-Regular.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+
 .container {
   margin: 0 267px;
 }
